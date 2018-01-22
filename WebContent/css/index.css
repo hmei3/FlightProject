@@ -1,0 +1,21 @@
+#head {
+	text-align: right;
+	font-size: 15px;
+}
+
+#head a {
+	text-decoration: none;
+	border-radius: 2px;
+}
+
+#content {
+	width: 95%;
+	margin: auto;
+	text-align: center;
+}
+
+#head a:hover {
+	text-decoration: underline;
+	background-color: lightblue;
+	color: white;
+}

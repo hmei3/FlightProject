@@ -1,0 +1,13 @@
+#content {
+	width: 95%;
+	margin:auto;
+}
+
+#register_containter {
+	width: 50%;
+	margin:auto;	
+}
+
+.bordertest {
+	border: 3px solid green;
+}
